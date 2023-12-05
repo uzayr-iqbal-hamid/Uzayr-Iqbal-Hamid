@@ -5,5 +5,8 @@ My skills:
     -HTML
     -CSS
     -JavaScript
+    -React js
+    -jQuery
+    -Bootstrap
     -Python
     -C
