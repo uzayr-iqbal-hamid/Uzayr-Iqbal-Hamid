@@ -26,13 +26,6 @@ I like to tickle my mind with DSA ;)
 - Command Line
 - VS Code
 - Git & Github
-## Connect with me 🔗
-
-- [LinkedIn](https://www.linkedin.com/in/uzayriqbal/)
-
-- [Leetcode](https://leetcode.com/hamiduzayr/)
-
-- [Email](hamiduzayr@gmail.com)
 
 
 <h3 align="left">Connect with me:</h3>
