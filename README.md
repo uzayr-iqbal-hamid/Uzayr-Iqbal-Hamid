@@ -1,15 +1,39 @@
-<h1 align="center">Hi 👋, I'm Uzayr Iqbal Hamid</h1>
-<h3 align="center">A passionate frontend developer</h3>
+# Hi, I'm Uzayr Iqbal Hamid! 🤜🤛
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=uzayr-iqbal-hamid&label=Profile%20views&color=0e75b6&style=flat" alt="uzayr-iqbal-hamid" /> </p>
 
-<p align="left"> <a href="https://twitter.com/uzayrhamid" target="blank"><img src="https://img.shields.io/twitter/follow/uzayrhamid?logo=twitter&style=for-the-badge" alt="uzayrhamid" /></a> </p>
+## 🚀 About Me
+I'm an aspiring Data Science undergraduate, and a Full Stack Web Developer.
+I like to tickle my mind with DSA ;)
 
-- 🌱 I’m currently learning **React and DSA**
 
-- 💬 Ask me about **Web Development**
+## 🛠 Skills
 
-- 📫 How to reach me **hamiduzayr@gmail.com**
+>Programming:
+- Python 
+- C
+
+> Web Development:
+- HTML5 
+- CSS
+- JavaScript
+- React.js
+- Django
+- Bootstrap5
+- jQuery
+- SQL
+
+>Tools:
+- Command Line
+- VS Code
+- Git & Github
+## Connect with me 🔗
+
+- [LinkedIn](https://www.linkedin.com/in/uzayriqbal/)
+
+- [Leetcode](https://leetcode.com/hamiduzayr/)
+
+- [Email](hamiduzayr@gmail.com)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
