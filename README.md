@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!+I'm+Uzayr+Iqbal+Hamid.+🤜🤛;Data+Science+Undergrad+@SJBIT+Bangalore,+India)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!+I'm+Uzayr+Iqbal+Hamid.+🤜🤛;Data+Science+Undergrad+@SJBIT;📍+Bangaore,+India)](https://git.io/typing-svg)
 
 ## 🚀 About Me
 I'm an aspiring Data Science undergraduate, and a Full Stack Web Developer.
