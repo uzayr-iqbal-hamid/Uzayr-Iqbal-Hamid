@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!+I'm+Uzayr+Iqbal+Hamid.+👋;Data+Science+Undergrad+@SJBIT+Bangalore,+India)](https://git.io/typing-svg)
 # Hi, I'm Uzayr Iqbal Hamid! 🤜🤛
 
 
