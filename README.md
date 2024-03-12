@@ -23,6 +23,7 @@ I like to tickle my mind with DSA ;)
 - [Wagtail CMS](https://github.com/uzayr-iqbal-hamid/learn-wagtail)
 
 >Tools:
+- Linux
 - Command Line
 - VS Code
 - Git & Github
