@@ -8,7 +8,7 @@ I like to tickle my mind with DSA ;)
 ## 🛠 Skills
 
 >Programming:
-- Python 
+- [Python](https://github.com/uzayr-iqbal-hamid/learn-python)
 - C
 
 > Web Development:
