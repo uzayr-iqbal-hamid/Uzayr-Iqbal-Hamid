@@ -16,10 +16,11 @@ I like to tickle my mind with DSA ;)
 - CSS
 - JavaScript
 - React.js
-- Django
+- [Django](https://github.com/uzayr-iqbal-hamid/learn-django)
 - Bootstrap5
 - jQuery
 - SQL
+- [Wagtail CMS](https://github.com/uzayr-iqbal-hamid/learn-wagtail)
 
 >Tools:
 - Command Line
