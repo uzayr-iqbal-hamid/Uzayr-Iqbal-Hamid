@@ -9,21 +9,10 @@ Im Uzayr, Data Science Undergraduate @ SJB Institute of Technology, Bangalore
 - [Python](https://github.com/uzayr-iqbal-hamid/learn-python)
 
 > Web Development:
-- HTML5 
-- CSS
-- JavaScript
-- React.js
-- [Django](https://github.com/uzayr-iqbal-hamid/learn-django)
-- Bootstrap5
-- jQuery
-- SQL
-- [Wagtail CMS](https://github.com/uzayr-iqbal-hamid/learn-wagtail)
+- HTML5 | CSS | JavaScript | React.js | [Django](https://github.com/uzayr-iqbal-hamid/learn-django) | Bootstrap5 | jQuery | SQL | [Wagtail CMS](https://github.com/uzayr-iqbal-hamid/learn-wagtail)
 
 >Tools:
-- Linux
-- Command Line
-- VS Code
-- Git & Github
+- Linux | Command Line | VS Code | Git
 
 
 <h3 align="left">Connect with me:</h3>
@@ -35,7 +24,3 @@ Im Uzayr, Data Science Undergraduate @ SJB Institute of Technology, Bangalore
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uzayr-iqbal-hamid&show_icons=true&locale=en&layout=compact" alt="uzayr-iqbal-hamid" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uzayr-iqbal-hamid&show_icons=true&locale=en" alt="uzayr-iqbal-hamid" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uzayr-iqbal-hamid&" alt="uzayr-iqbal-hamid" /></p>
