@@ -7,8 +7,7 @@ Im Uzayr, Data Science Undergraduate @ SJB Institute of Technology, Bangalore
 
 > Programming: [Python](https://github.com/uzayr-iqbal-hamid/learn-python)
 
-> Data Science:
-- Python | Statistics
+> Data Science: Python | Statistics
 
 > Web Development:
 - HTML5 | CSS | JavaScript | React.js | [Django](https://github.com/uzayr-iqbal-hamid/learn-django) | Bootstrap5 | jQuery | SQL | [Wagtail CMS](https://github.com/uzayr-iqbal-hamid/learn-wagtail)
