@@ -6,7 +6,7 @@ Im Uzayr, Data Science Undergraduate @ SJB Institute of Technology, Bangalore
 ## 🛠 Skills
 
 - Programming:
-> [Python](https://github.com/uzayr-iqbal-hamid/learn-python)
+  > [Python](https://github.com/uzayr-iqbal-hamid/learn-python)
 
 > Data Science:
 - Python | Statistics
