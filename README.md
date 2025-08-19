@@ -5,14 +5,10 @@ Im Uzayr, Data Science Undergraduate @ SJB Institute of Technology, Bangalore
 
 ## 🛠 Skills
 
-- Programming: [Python](https://github.com/uzayr-iqbal-hamid/learn-python) | Java
-
-- Data Science: Python | Statistics
-
-- Web Development: Reactjs | Flask | Bootstrap5
-
+- Programming: Java | Python
+- Frameworks: Spring Boot | Flask | React.js
+- Web Development: HTML | CSS | Bootstrap5
 - Database Management: SQL | MongoDB 
-
 - Tools: Linux | Command Line | VS Code | Git
 
 
