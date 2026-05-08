@@ -1,20 +1,50 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!+I'm+Uzayr+Iqbal+Hamid.+🤜🤛;📊+Data+Science+Undergrad+@SJBIT;Full+Stack+Web+Developer💻)](https://git.io/typing-svg)
+<div align="center">
 
-Im Uzayr Iqbal Hamid, a final year CSE(Data Science) Undergraduate @ SJB Institute of Technology, Bangalore
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Uzayr+Iqbal+Hamid+%F0%9F%91%8B;AI-Native+Full-Stack+Engineer+%F0%9F%A4%96;Building+at+the+Edge+of+AI+%E2%9C%A8;Turning+ideas+into+intelligent+systems)](https://git.io/typing-svg)
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=&fontSize=0" width="100%"/>
 
-## 🛠 Technical Skills
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/uzayriqbal)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/hamiduzayr)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamiduzayr@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=uzayr-iqbal-hamid&style=for-the-badge&color=00D9FF)](https://github.com/uzayr-iqbal-hamid)
 
-- Programming: Java | Python
-- Backend: Spring Boot | Flask | REST API
-- Web Development: HTML | CSS | Bootstrap5
-- Database Management: SQL | MongoDB 
-- Tools: Linux | Command Line | VS Code | Git
-- Cloud: AWS (Fundamentals)
+</div>
 
+### Hey there, I'm [Uzayr](https://linkedin.com/in/uzayriqbal) 👋
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/uzayriqbal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uzayriqbal" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/hamiduzayr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hamiduzayr" height="30" width="40" /></a>
-</p>
+##### Final-year CSE (Data Science) undergrad at SJBIT, Bangalore — building AI-native systems across the full stack.
+
+## Profile Views
+
+| Total Count |
+| --- |
+| ![Views](https://komarev.com/ghpvc/?username=uzayr-iqbal-hamid&style=for-the-badge&color=brightgreen) |
+
+## What I'm Doing
+
+- 🤖 Working on **AI-native systems** — HuggingFace pipelines, LLM integrations, ML-backed APIs
+- 🌱 Going deeper into **agentic systems**, inference optimization, and prompt engineering
+- ⚡ Daily drivers: **Claude Code** & **GitHub Copilot**
+- 📫 Reach me at **hamiduzayr@gmail.com**
+
+## Languages and Tools
+
+[![Skills](https://skillicons.dev/icons?i=python,java,js,react,spring,flask,pytorch,mongodb,mysql,redis,aws,docker,git,linux,vscode,postman&perline=8)](https://skillicons.dev)
+
+###### AI & LLM toolkit: HuggingFace Transformers · PyTorch · Claude API · OpenAI API · Prompt Engineering
+
+## Activity On GitHub
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=uzayr-iqbal-hamid&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ffa116&currStreakLabel=00d9ff)
+
+## Top Repositories
+
+[![Crime Detection System](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=uzayr-iqbal-hamid&repo=crime-detection-system&theme=react&bg_color=1F222E&title_color=00D9FF&hide_border=true&icon_color=00D9FF&show_icons=false)](https://github.com/uzayr-iqbal-hamid/crime-detection-system)
+[![Journal Application](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=uzayr-iqbal-hamid&repo=journal-application&theme=react&bg_color=1F222E&title_color=00D9FF&hide_border=true&icon_color=00D9FF&show_icons=false)](https://github.com/uzayr-iqbal-hamid/journal-application)
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=&fontSize=0" width="100%"/>
+
+</div>
