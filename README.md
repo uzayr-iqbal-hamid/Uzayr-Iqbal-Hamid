@@ -38,10 +38,6 @@
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=uzayr-iqbal-hamid&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ffa116&currStreakLabel=00d9ff)
 
-## Top Repositories
-
-[![Crime Detection System](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=uzayr-iqbal-hamid&repo=crime-detection-system&theme=react&bg_color=1F222E&title_color=00D9FF&hide_border=true&icon_color=00D9FF&show_icons=false)](https://github.com/uzayr-iqbal-hamid/crime-detection-system)
-[![Journal Application](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=uzayr-iqbal-hamid&repo=journal-application&theme=react&bg_color=1F222E&title_color=00D9FF&hide_border=true&icon_color=00D9FF&show_icons=false)](https://github.com/uzayr-iqbal-hamid/journal-application)
 
 <div align="center">
 
