@@ -19,7 +19,7 @@
 
 | Total Count |
 | --- |
-| ![Views](https://komarev.com/ghpvc/?username=uzayr-iqbal-hamid&style=for-the-badge&color=brightgreen) |
+| ![Views](https://komarev.com/ghpvc/?username=uzayr-iqbal-hamid&style=for-the-badge&color=red) |
 
 ## What I'm Doing
 
