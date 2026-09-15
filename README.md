@@ -11,7 +11,7 @@
 
 </div>
 
-### Hey there, I'm [Uzayr](https://linkedin.com/in/uzayriqbal) 👋
+### Hey there, I'm Uzayr 👋
 
 ## Profile Views
 
