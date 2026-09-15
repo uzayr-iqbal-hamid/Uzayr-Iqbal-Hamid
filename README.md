@@ -13,8 +13,6 @@
 
 ### Hey there, I'm [Uzayr](https://linkedin.com/in/uzayriqbal) 👋
 
-##### Final-year CSE (Data Science) undergrad at SJBIT, Bangalore — building AI-native systems across the full stack.
-
 ## Profile Views
 
 | Total Count |
