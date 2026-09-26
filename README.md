@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=hi%2C+i'm+uzayr+%F0%9F%91%8B;full-stack+dev)](https://git.io/typing-svg)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=&fontSize=0" width="100%"/>
-
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/uzayriqbal)
 [![leetcode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/hamiduzayr)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamiduzayr@gmail.com)
@@ -24,7 +22,5 @@ reach me at **hamiduzayr@gmail.com**
 
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=&fontSize=0" width="100%"/>
 
 </div>
