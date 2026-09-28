@@ -25,10 +25,6 @@ reach me at **hamiduzayr@gmail.com**
 
 [![Skills](https://skillicons.dev/icons?i=python,java,js,react,spring,flask,pytorch,mongodb,mysql,redis,aws,docker,git,linux,vscode,postman&perline=8)](https://skillicons.dev)
 
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=uzayr-iqbal-hamid&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ffa116&currStreakLabel=00d9ff)
-
-
 <div align="center">
 
 </div>
