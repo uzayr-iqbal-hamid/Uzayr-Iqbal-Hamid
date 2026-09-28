@@ -1,12 +1,11 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=hi%2C+i'm+uzayr+%F0%9F%91%8B;full-stack+dev)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Doto&weight=800&size=30&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=hi%2C+i'm+uzayr+%F0%9F%91%8B;full-stack+dev+%40+bangalore;i+rice+linux+desktops;nothing+os%2C+but+on+hyprland)](https://git.io/typing-svg)
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/uzayriqbal)
-[![leetcode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/hamiduzayr)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamiduzayr@gmail.com)
-[![views](https://komarev.com/ghpvc/?username=uzayr-iqbal-hamid&style=for-the-badge&color=00D9FF)](https://github.com/uzayr-iqbal-hamid)
-
+[![linkedin](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/uzayriqbal)
+[![leetcode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/hamiduzayr)
+[![gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamiduzayr@gmail.com)
+[![views](https://komarev.com/ghpvc/?username=uzayr-iqbal-hamid&style=for-the-badge&color=D71921)](https://github.com/uzayr-iqbal-hamid)
 </div>
 
 ### hey there 👋
