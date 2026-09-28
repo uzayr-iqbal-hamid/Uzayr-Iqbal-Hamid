@@ -11,9 +11,17 @@
 
 ### hey there 👋
 
-i work as an fde at a startup based in bangalore. i love ricing linux desktops in my free time. throw an idea at me and you've got your imagination turned into a reality. 
+i work as an fullstack developer at a startup based in bangalore. i love ricing linux desktops in my free time. throw an idea at me and you've got your imagination turned into a reality. 
+
+do you use linux? try hyprland
+
+do you use hyprland? check out my projects: [nothing-os-dots-hyprland](https://github.com/uzayr-iqbal-hamid/nothing-os-dots-hyprland) & [hypr-remote](https://github.com/uzayr-iqbal-hamid/hypr-remote)
 
 reach me at **hamiduzayr@gmail.com**
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=uzayr-iqbal-hamid&hide_border=true&border_radius=12&background=000000&stroke=2A2A2A&ring=D71921&fire=D71921&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=D71921&sideLabels=8A8A8A&dates=5A5A5A" alt="GitHub streak" />
+</p>
 
 [![Skills](https://skillicons.dev/icons?i=python,java,js,react,spring,flask,pytorch,mongodb,mysql,redis,aws,docker,git,linux,vscode,postman&perline=8)](https://skillicons.dev)
 
