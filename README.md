@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Geist&weight=600&size=30&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=hi%2C+i'm+uzayr+%F0%9F%91%8B;full-stack+dev+%40+bangalore;i+rice+linux+desktops;nothing+os%2C+but+on+hyprland)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Geist&weight=600&size=30&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=hi%2C+i'm+uzayr+%F0%9F%91%8B;full-stack+dev+%40+bangalore;linux)](https://git.io/typing-svg)
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/uzayriqbal)
 [![leetcode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/hamiduzayr)
