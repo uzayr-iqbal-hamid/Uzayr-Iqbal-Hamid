@@ -11,7 +11,7 @@
 
 ### hey there 👋
 
-i work as an fullstack developer at a startup based in bangalore. i love ricing linux desktops in my free time. throw an idea at me and you've got your imagination turned into a reality. 
+i work as a fullstack developer at a startup based in bangalore. i love ricing linux desktops in my free time. throw an idea at me and you've got your imagination turned into a reality. 
 
 do you use linux? try [hyprland](https://hypr.land)
 
