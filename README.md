@@ -21,4 +21,4 @@ do you use hyprland? check out my projects: [nothing-os-dots-hyprland](https://g
   <img src="https://streak-stats.demolab.com?user=uzayr-iqbal-hamid&hide_border=true&border_radius=12&background=000000&stroke=2A2A2A&ring=D71921&fire=D71921&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=D71921&sideLabels=8A8A8A&dates=5A5A5A" alt="GitHub streak" />
 </p>
 
-[![Skills](https://skillicons.dev/icons?i=python,java,ts,js,react,nextjs,tailwind,spring,flask,pytorch,qt,mongodb,mysql,redis,aws,docker,git,linux,bash,vscode,postman&perline=7&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python,java,ts,js,react,nextjs,tailwind,spring,flask,pytorch,qt,mongodb,mysql,redis,aws,docker,git,linux,bash,vscode,postman&perline=10&theme=dark)](https://skillicons.dev)
