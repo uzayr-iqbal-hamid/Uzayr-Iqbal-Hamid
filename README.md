@@ -13,7 +13,7 @@
 
 i work as an fullstack developer at a startup based in bangalore. i love ricing linux desktops in my free time. throw an idea at me and you've got your imagination turned into a reality. 
 
-do you use linux? try hyprland
+do you use linux? try [hyprland](https://hypr.land)
 
 do you use hyprland? check out my projects: [nothing-os-dots-hyprland](https://github.com/uzayr-iqbal-hamid/nothing-os-dots-hyprland) & [hypr-remote](https://github.com/uzayr-iqbal-hamid/hypr-remote)
 
