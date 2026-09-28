@@ -24,6 +24,8 @@ reach me at **hamiduzayr@gmail.com**
 
 [![Skills](https://skillicons.dev/icons?i=python,java,js,react,spring,flask,pytorch,mongodb,mysql,redis,aws,docker,git,linux,vscode,postman&perline=8)](https://skillicons.dev)
 
+[![Skills](https://skillicons.dev/icons?i=python,java,ts,js,react,nextjs,tailwind,spring,flask,pytorch,qt,mongodb,mysql,redis,aws,docker,git,linux,bash,vscode,postman&perline=7&theme=dark)](https://skillicons.dev)
+
 <div align="center">
 
 </div>
